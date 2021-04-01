@@ -19,6 +19,7 @@ WebCamController.cs の Update()の呼び出し周期を計測したものです
 |  | SingleHandLocalization |
 | - | :- |
 | WebGL<br>CPU：Core i7-8750H CPU @2.20GHz | 約6.7FPS<br>CSharpBurst |
+| WebGL<br>CPU：CPU：Core i5-5200U CPU @2.20GHz | 約3.0FPS<br>CSharpBurst |
 | Unity Editor<br>GPU：GTX 1050 Ti Max-Q(4GB) | 約45FPS<br>ComputePrecompiled |
 
 <img src="https://user-images.githubusercontent.com/37477845/113316578-7634ce80-9349-11eb-87c0-c4102c595e46.gif" width="60%">
